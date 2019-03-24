@@ -1,0 +1,8 @@
+use_frameworks!
+target 'ShoppingCart' do
+
+  pod 'SQLite.swift', '~> 0.11.5'
+  pod 'SnapKit'
+  pod 'HandyJSON'
+
+end
